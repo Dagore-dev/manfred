@@ -1,0 +1,97 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Gómez",
+      "description": "I am a chemistry graduate who has not found a job and decided to learn web development to change from my productive sector to another with a more dynamic job market."
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Dagore-dev"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MERN Stack",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-gómez-redondo-251a02195"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
