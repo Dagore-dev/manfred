@@ -1,13 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "David",
       "surnames": "Gómez",
+      "title": "Title",
       "description": "I am a chemistry graduate who has not found a job and decided to learn web development to change from my productive sector to another with a more dynamic job market."
     },
     "relevantLinks": [
@@ -20,19 +21,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -44,13 +41,19 @@
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "MERN Stack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       }
@@ -60,9 +63,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/david-gómez-redondo-251a02195"
+          "URL": "https://github.com/Dagore-dev",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "dagore94@hotmail.com"
       ]
     },
     "preferences": {
@@ -91,7 +97,16 @@
           "name": "React",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I have learn Javascript and React, I think I can do a frontend work with these technologies. Also I'm interested in the backend world and Node.\n\n"
   }
 }
