@@ -67,6 +67,14 @@
           "type": "technology"
         }
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
