@@ -51,6 +51,12 @@
       },
       {
         "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C#",
           "type": "technology"
         }
