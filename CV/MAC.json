@@ -80,6 +80,12 @@
           "name": "Autonomy in learning",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Good presentation skills",
+          "type": "practice"
+        }
       }
     ]
   },
