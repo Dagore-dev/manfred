@@ -74,6 +74,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
           "name": "C#",
           "type": "technology"
         },
@@ -83,6 +87,10 @@
         },
         {
           "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Java",
           "type": "technology"
         },
         {
