@@ -9,7 +9,17 @@
       "name": "David",
       "surnames": "Gómez",
       "title": "Title",
-      "description": "I am a chemistry graduate who has not found a job and decided to learn web development to change from my productive sector to another with a more dynamic job market."
+      "description": "I am a chemistry graduate who has not found a job and decided to learn web development to change from my productive sector to another with a more dynamic job market.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/05/d4d0cc4e-b99e-433a-b39e-b719517bc77e_81522233.png",
+        "alt": "81522233.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJn6NESOjGDQ0R6v_Q8_U-rG0)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Jerez de la Frontera"
+      }
     },
     "relevantLinks": [
       {
