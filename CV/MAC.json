@@ -11,8 +11,8 @@
       "title": "Desarrollador Backend Java",
       "description": "Desarrollador Backend Java con SpringBoot.\n\nExperiencia en mantenimiento y desarrollo de servicios REST y SOAP. Orquestación de servicios con OSB y BPEL.\n\nFormación en tecnologías modernas del frontend como React y Angular, bases de datos SQL y noSQL (MongoDB) y cierta familiaridad con el desarrollo con C# y ASP.NET.\n\nLinktree https://linktr.ee/dagoredev",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/3e3301bb-8f03-40b0-9356-5bf52cdee374_linkedin-photo-8600.linkedin-photo-8600",
-        "alt": "24/06/12/3e3301bb-8f03-40b0-9356-5bf52cdee374_linkedin-photo-8600.linkedin-photo-8600"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/377e2c4c-0d87-4824-b209-adedcaf146cc_linkedin-photo-8600.linkedin-photo-8600",
+        "alt": "24/06/12/377e2c4c-0d87-4824-b209-adedcaf146cc_linkedin-photo-8600.linkedin-photo-8600"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJn6NESOjGDQ0R6v_Q8_U-rG0)",
@@ -25,6 +25,88 @@
       {
         "type": "github",
         "URL": "https://github.com/Dagore-dev"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Staff Formación",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/81ea1147-e6fe-4144-956a-456252b5f287_linkedin-photo-8600.linkedin-photo-8600",
+            "alt": "24/06/12/81ea1147-e6fe-4144-956a-456252b5f287_linkedin-photo-8600.linkedin-photo-8600"
+          }
+        },
+        "roles": [
+          {
+            "name": "Profesor de informática",
+            "startDate": "2023-11-01",
+            "finishDate": "2023-11-30",
+            "challenges": [
+              {
+                "description": "Skills: Formación en software informático"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VIEWNEXT",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/84e926b4-55c9-48dc-aba1-ca2db358c437_linkedin-photo-8600.linkedin-photo-8600",
+            "alt": "24/06/12/84e926b4-55c9-48dc-aba1-ca2db358c437_linkedin-photo-8600.linkedin-photo-8600"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de back-end",
+            "startDate": "2023-11-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento de aplicaciones Java.\nMutation testing con Pitest.\nGestión de APIs mediante desarrollo de OSB y BPEL (orquestaciones API´s REST y SOAP).\nDesarrollo microservicios Java - Spring Boot."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Avanade",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/8600ee56-4cc7-460d-91f5-b76f526f69df_linkedin-photo-8600.linkedin-photo-8600",
+            "alt": "24/06/12/8600ee56-4cc7-460d-91f5-b76f526f69df_linkedin-photo-8600.linkedin-photo-8600"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full-stack Developer",
+            "startDate": "2023-03-01",
+            "finishDate": "2023-06-30",
+            "challenges": [
+              {
+                "description": "Formación en varias tecnologías de Microsoft como ASP.NET o la Power Platform, también Angular. Automatización de las tareas del departamento de RRHH mediante SQL Server, Power Query y Power Automate."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad de Cádiz",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/e14a0075-6ef8-40d4-8d5a-f9e6714107d9_linkedin-photo-8600.linkedin-photo-8600",
+            "alt": "24/06/12/e14a0075-6ef8-40d4-8d5a-f9e6714107d9_linkedin-photo-8600.linkedin-photo-8600"
+          }
+        },
+        "roles": [
+          {
+            "name": "Auxiliar administrativo",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-04-30"
+          }
+        ]
       }
     ]
   },
@@ -144,6 +226,32 @@
           "name": "Visual Studio",
           "type": "technology"
         }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS Desarrollo de aplicaciones web",
+        "startDate": "2021-09-01",
+        "institution": {
+          "name": "I.E.S. Francisco Romero Vargas"
+        },
+        "finishDate": "2023-06-30"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster en Nanociencia y tecnología de Materiales",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Universidad de Cádiz",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/19bca28e-0378-4aa5-8fc3-b37f953de91a_linkedin-photo-8600.linkedin-photo-8600",
+            "alt": "24/06/12/19bca28e-0378-4aa5-8fc3-b37f953de91a_linkedin-photo-8600.linkedin-photo-8600"
+          }
+        },
+        "finishDate": "2020-01-01"
       }
     ]
   },
