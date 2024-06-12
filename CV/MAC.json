@@ -7,12 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "David",
-      "surnames": "Gómez",
-      "title": "Java / Spring Boot Backend Developer",
-      "description": "I am a chemistry graduate who decided to learn web development to change from my productive sector to another with a more dynamic job market.\n\nI have found my main interest in design patterns and the backend world, and that makes me work with SOLID and Clean Code principles always in mind.\n\nEven so, modern frontend technologies attract my attention due to their constant proposals to improve performance, development experience and how we think about web development in general.",
+      "surnames": "Gómez Redondo",
+      "title": "Desarrollador Backend Java",
+      "description": "Desarrollador Backend Java con SpringBoot.\n\nExperiencia en mantenimiento y desarrollo de servicios REST y SOAP. Orquestación de servicios con OSB y BPEL.\n\nFormación en tecnologías modernas del frontend como React y Angular, bases de datos SQL y noSQL (MongoDB) y cierta familiaridad con el desarrollo con C# y ASP.NET.\n\nLinktree https://linktr.ee/dagoredev",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/05/d4d0cc4e-b99e-433a-b39e-b719517bc77e_81522233.png",
-        "alt": "81522233.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/3e3301bb-8f03-40b0-9356-5bf52cdee374_linkedin-photo-8600.linkedin-photo-8600",
+        "alt": "24/06/12/3e3301bb-8f03-40b0-9356-5bf52cdee374_linkedin-photo-8600.linkedin-photo-8600"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJn6NESOjGDQ0R6v_Q8_U-rG0)",
@@ -143,26 +143,6 @@
         "skill": {
           "name": "Visual Studio",
           "type": "technology"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Autonomy in learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Good presentation skills",
-          "type": "practice"
         }
       }
     ]
